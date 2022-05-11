@@ -3,4 +3,4 @@ target: banded-aligner
 duration: 90
 
 cmds:
-    - cmd: /banded-aligner
+    - cmd: /banded_aligner
