@@ -1,0 +1,6 @@
+project: rust-bio
+target: banded-aligner
+duration: 90
+
+cmds:
+    - cmd: /banded-aligner

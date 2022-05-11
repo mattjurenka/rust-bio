@@ -1,0 +1,6 @@
+project: rust-bio
+target: myers-matching
+duration: 90
+
+cmds:
+    - cmd: /myers_matching
